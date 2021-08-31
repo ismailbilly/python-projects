@@ -1,2 +1,2 @@
-# python-projects
-This is a repo for python projects for beginners. It captures my journey from beginner to present
+#Python-Projects
+This is a python projects repo for beginners. It captures my journey as a beginner and i hope someone finds this useful as well
